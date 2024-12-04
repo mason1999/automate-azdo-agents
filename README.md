@@ -35,7 +35,7 @@ The **pre-requisites include**:
 
    After successful build, you should be able to see your agent being registered on the Azure DevOps portal:
 
-   **TODO_PUT_AN_IMAGE_HERE**.
+   ![Image showing container agent being registered but offline after docker build.](./images/registered-offline.png)
 
 1. Run the container with the following command:
 
@@ -45,7 +45,7 @@ The **pre-requisites include**:
 
    After successful running, you should be able to see your agent online:
 
-   **TODO_PUT_AN_IMAGE_HERE**.
+   ![Image showing container agent being online after docker run.](./images/registered-online.png)
 
 1. To un-register your agent, run the following commands:
 
